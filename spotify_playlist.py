@@ -4,8 +4,8 @@ from spotipy import Spotify #import spotify client
 from spotipy.oauth2 import SpotifyOAuth #import spotify ouath for authentication
 import webbrowser #import webbrowser to play track previews
 
-CLIENT_ID = "3faa44efccfa46af9706d95ad646b5a4" #spotify client id
-CLIENT_SECRET = "33a74e024d0b47d7b18e5ebffca8ac17"
+CLIENT_ID = "spotifyclientid" #spotify client id
+CLIENT_SECRET = "spotifyclientsecret"
 REDIRECT_URI =  "http://localhost:8888/callback" # redirect uri for spotify oauth
 
 #creating main app class
