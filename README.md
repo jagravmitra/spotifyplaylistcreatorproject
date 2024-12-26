@@ -1,0 +1,1 @@
+This is a python project incorparating the Spotify API. This allows the user to generate playlists based on a mood and a genre, customize the number of tracks, make the playlist private, and preview the tracks as well.
